@@ -1,14 +1,21 @@
-# 🌐 Zion App Network — Interlinks
+# Shipping Delay Alerter — Network Links
 
-**shipping-delay-alerter** is part of the Zion Tech Group app network (630+ apps).
+Detect shipment delays early and notify customers proactively.
 
-- 🗂️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Industry Platforms](https://github.com/Zion-support/zion-network/blob/main/network/industry-platforms.md)
+## Live
+- App: https://ziontechgroup.com/shipping-delay-alerter/
+- Repo: https://github.com/Zion-support/shipping-delay-alerter
+- Pages: https://zion-support.github.io/shipping-delay-alerter/
 
 ## Related apps
-- [ai-supply-chain](https://github.com/Zion-support/ai-supply-chain) — logistics & demand forecasting
-- [dock-appointment-scheduler](https://github.com/Zion-support/dock-appointment-scheduler) — dock scheduling
-- [customs-doc-generator](https://github.com/Zion-support/customs-doc-generator) — customs documents
+- [freight-rate-scout](https://ziontechgroup.com/freight-rate-scout/) · [GitHub](https://github.com/Zion-support/freight-rate-scout)
+- [demand-sensing-hub](https://ziontechgroup.com/demand-sensing-hub/) · [GitHub](https://github.com/Zion-support/demand-sensing-hub)
+- [ai-customer-experience-hub](https://ziontechgroup.com/ai-customer-experience-hub/) · [GitHub](https://github.com/Zion-support/ai-customer-experience-hub)
 
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+## Network
+- Homepage: https://ziontechgroup.com
+- App Showcase: https://ziontechgroup.com/apps/
+- Master catalog: https://github.com/Zion-support/zion-app-network
+- Apps hub: https://github.com/Zion-support/zion-apps-hub
+
+*Zion Tech Group · part of the 703+ app AI network.*
