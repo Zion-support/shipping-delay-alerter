@@ -1,11 +1,12 @@
-# 🔗 Zion AI App Network
+# Zion App Network — Interlinks for shipping-delay-alerter
 
-Part of the **Zion AI App Network** — 678+ interlinked AI apps, tools and playbooks by [Zion Tech Group](https://ziontechgroup.com).
+Shipping Delay Alerter is part of the [Zion App Network](https://ziontechgroup.com/zion-app-network/) by [Zion Tech Group](https://ziontechgroup.com) — 700+ interlinked AI apps.
 
-- 🏠 Home: https://ziontechgroup.com
-- 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
-- 🐙 Hub: https://github.com/Zion-support/zion-app-network
-- 🌐 Live app: https://ziontechgroup.com/shipping-delay-alerter/
-- 🔗 Related: [Dock Appointment Scheduler](https://ziontechgroup.com/dock-appointment-scheduler/) · [Zion AI Supply Chain](https://ziontechgroup.com/zion-ai-supply-chain/) · [Discovery](https://ziontechgroup.com/discovery/)
+- Live app: https://ziontechgroup.com/shipping-delay-alerter/
+- Hub repo: https://github.com/Zion-support/zion-app-network · Master interlink map: https://github.com/Zion-support/zion-app-network/blob/main/INTERLINKS.md
+- Batch 53 spotlight (Revenue Protection & Operations Signals): https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-26-BATCH53.md · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html
 
-© 2026 Zion Tech Group.
+## Related revenue protection apps
+[Revenue Leak Detector](https://ziontechgroup.com/revenue-leak-detector/) · [Subscription Dunning Hero](https://ziontechgroup.com/subscription-dunning-hero/) · [Pricing Signal Radar](https://ziontechgroup.com/pricing-signal-radar/) · [Zion AI Pricing Optimizer](https://ziontechgroup.com/zion-ai-pricing-optimizer/) · [Supplier Risk Radar](https://ziontechgroup.com/supplier-risk-radar/) · [Vendor Onboarding Copilot](https://ziontechgroup.com/vendor-onboarding-copilot/) · [Energy Demand Forecaster](https://ziontechgroup.com/energy-demand-forecaster/)
+
+© 2026 Zion Tech Group · https://ziontechgroup.com
